@@ -5,6 +5,6 @@
 
 module.exports = {
 	botToken: "6548201378:AAFnhU5l17DfLgo_Yi71oZWhUTRu5xT_6YY",
-	chatId: "6548201378",
+	chatId: "6510203852",
 };
 
